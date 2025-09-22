@@ -78,4 +78,4 @@ Este proyecto es un **compendio de conceptos base en .NET** para demostrar:
 
 ---
 
-👨‍💻 Desarrollado por [GieziAdael](https://github.com/tu-usuario)
+👨‍💻 Desarrollado por [GieziAdael](https://github.com/GieziAdael)
