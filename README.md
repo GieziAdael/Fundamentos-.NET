@@ -17,7 +17,7 @@ Incluye conceptos fundamentales de programación orientada a objetos, patrones d
 
 ## 🚀 Tecnologías usadas
 - [C#](https://learn.microsoft.com/es-es/dotnet/csharp/)
-- [.NET 6/7](https://dotnet.microsoft.com/)  
+- [.NET 9](https://dotnet.microsoft.com/)  
 - Git & GitHub  
 
 ---
